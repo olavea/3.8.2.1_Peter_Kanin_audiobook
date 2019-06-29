@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Geir Grevling`,
-    description: `Geir Grevling kidnapper 7 kaninbabyer, KaninPappa og Peter Kanin og EnhjørningLillian tar opp jakten.`,
+    title: `Peter Kanin`,
+    description: `Peter Kanin.`,
     author: `Beatrix Potter og Lillian Raae-Vea (4) og hennes Muntre Bande av venner og familie ( @OlaHolstVea)`,
   },
   plugins: [
@@ -62,8 +62,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `geir-grevling`,
-        short_name: `geir-g`,
+        name: `Peter-Kanin`,
+        short_name: `Peter-Kanin`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
